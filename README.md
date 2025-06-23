@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋 I'm Oghuz Hasanli
 
-<!--
-**Oghuz20/Oghuz20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Data Scientist and ML Intern Candidate  
+📍 Data Science Intern at QSS Analytics  
+👨‍🏫 Python Mentor at Data Science Academy  
+📚 Trained through Technest and DigiRise programs  
+🔍 Learning Python, SQL (Oracle), pandas, scikit-learn, and model building  
 
-Here are some ideas to get you started:
+🚀 Currently working on:
+- Machine learning mini projects
+- Data visualization tasks
+- SQL queries and database practice
+- Python basics and problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & Technologies:
+Python · pandas · scikit-learn · matplotlib · seaborn · Oracle SQL · Jupyter Notebook
+
+📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/oghuzhasanli) | oguzhsnli2@gmail.com
+
+---
+> 📌 Check out my pinned repositories below for my latest work.
